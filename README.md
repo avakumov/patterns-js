@@ -5,3 +5,4 @@ List of javascript patterns
 Creational
 
 - constructor
+- factory
