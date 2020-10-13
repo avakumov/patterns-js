@@ -6,3 +6,4 @@ Creational
 
 - constructor
 - factory
+- prototype
