@@ -7,3 +7,4 @@ Creational
 - constructor
 - factory
 - prototype
+- singleton
