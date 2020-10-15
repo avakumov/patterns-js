@@ -8,3 +8,7 @@ Creational
 - factory
 - prototype
 - singleton
+  
+Structural
+
+- adapter
