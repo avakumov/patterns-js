@@ -12,3 +12,4 @@ Creational
 Structural
 
 - adapter
+- decorator
