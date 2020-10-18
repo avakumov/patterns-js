@@ -15,3 +15,4 @@ Structural
 - decorator
 - facade
 - proxy
+- flyweing
