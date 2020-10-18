@@ -14,3 +14,4 @@ Structural
 - adapter
 - decorator
 - facade
+- proxy
