@@ -16,3 +16,7 @@ Structural
 - facade
 - proxy
 - flyweing
+
+Behaviour
+
+- iterator
