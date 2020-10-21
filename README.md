@@ -21,3 +21,4 @@ Behaviour
 
 - iterator
 - template
+- strategy
