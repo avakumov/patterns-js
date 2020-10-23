@@ -24,3 +24,4 @@ Behaviour
 - strategy
 - state
 - observer
+- mediator
