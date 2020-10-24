@@ -25,3 +25,4 @@ Behaviour
 - state
 - observer
 - mediator
+- command
