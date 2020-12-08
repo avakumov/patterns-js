@@ -26,3 +26,4 @@ Behaviour
 - observer
 - mediator
 - command
+- chain of responsibility
